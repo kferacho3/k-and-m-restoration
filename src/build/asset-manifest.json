@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cea4d8c1.css",
+    "main.js": "/static/js/main.f5e378e0.js",
+    "static/media/Button.svg": "/static/media/Button.edf4b652b31ffb2720a66547ff600d7e.svg",
+    "static/media/HeroBg.mp4": "/static/media/HeroBg.729a6aa4c65da3ab95b0.mp4",
+    "static/media/houseC.svg": "/static/media/houseC.6fa07f0877bc5157164cd029f187f0cb.svg",
+    "static/media/rubg.svg": "/static/media/rubg.97182da5e46a446f1866b3bdd46c7733.svg",
+    "static/media/frame.svg": "/static/media/frame.e45156242e0b37f52f87e84e6e9c88d0.svg",
+    "static/media/TenesseeLogo.svg": "/static/media/TenesseeLogo.ff9d06dcc7980a2bb6d59c8b587df4a0.svg",
+    "static/media/AboutSvg.svg": "/static/media/AboutSvg.aabb691aa019ead93a281037cc2e2c70.svg",
+    "static/media/LeftBgProjects.svg": "/static/media/LeftBgProjects.4810479fb0e59f58cf929093d4235aa6.svg",
+    "static/media/AboutRightBg.svg": "/static/media/AboutRightBg.0cb5303e3b96bbef32c5d47a39b02896.svg",
+    "static/media/rp.svg": "/static/media/rp.2222db51363670041fec95f4c6f1e310.svg",
+    "static/media/TestBg.svg": "/static/media/TestBg.866a7f97e169dd344d0bba1ce44a4963.svg",
+    "static/media/AboutUs.svg": "/static/media/AboutUs.9065e9ca09f955a9441f93eec99f3ae1.svg",
+    "static/media/ServicesBg.svg": "/static/media/ServicesBg.1024ed60897bb12ab638041d2240d0b0.svg",
+    "static/media/ContactImg.svg": "/static/media/ContactImg.aa456e6f3ce4b193088f1940dded13d1.svg",
+    "static/media/KandMLogo.svg": "/static/media/KandMLogo.44acedb95a6778b91bee2093fb1985fc.svg",
+    "static/media/Footer.svg": "/static/media/Footer.eba36fbf55e900d491a0781c4c5c4ef3.svg",
+    "static/media/RightBgProjects.svg": "/static/media/RightBgProjects.f1ad5cc0c46b9b7235503de1db47939c.svg",
+    "static/media/lp.svg": "/static/media/lp.9a374a9b4e923ad1fccc5b7263471964.svg",
+    "static/media/roofrepair.svg": "/static/media/roofrepair.0741370e53a20308f47000a0a3812723.svg",
+    "static/media/claims.svg": "/static/media/claims.4036022b9aad78cf0a42588e72dd6129.svg",
+    "static/media/inspection.svg": "/static/media/inspection.93e3f4bb6728f88beb40cd69171182d1.svg",
+    "static/media/roofmaintenance.svg": "/static/media/roofmaintenance.052bc41c865e8849187122bcb5b4d5bc.svg",
+    "static/media/email.svg": "/static/media/email.ed6495d69c64959e351c593aab248908.svg",
+    "static/media/Stars.svg": "/static/media/Stars.f7f4a09c018d6d627a353e9aa6e016c6.svg",
+    "static/media/Apost.svg": "/static/media/Apost.d20d3b3a9322760bf7a31aa0fe536606.svg",
+    "static/media/Left.svg": "/static/media/Left.5e386acb01794fe7c0a715a7a57261d3.svg",
+    "static/media/Right.svg": "/static/media/Right.d7dc6a523191f913c1dfc78963dc3b00.svg",
+    "static/media/exit.svg": "/static/media/exit.e1c29389408c5b2f7338a0f2e93b1d67.svg",
+    "static/media/Green1.svg": "/static/media/Green1.950b1befe46add2585dbe7390440c050.svg",
+    "static/media/Green2.svg": "/static/media/Green2.f0b4102c2a04abde53f578d895713e84.svg",
+    "index.html": "/index.html",
+    "main.cea4d8c1.css.map": "/static/css/main.cea4d8c1.css.map",
+    "main.f5e378e0.js.map": "/static/js/main.f5e378e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea4d8c1.css",
+    "static/js/main.f5e378e0.js"
+  ]
+}

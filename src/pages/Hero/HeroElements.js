@@ -11,7 +11,7 @@ export const HeroContainer = styled.div`
     position: relative;
     background: #fff;    
     height: 800px;
-    top: 150px;
+    top: 120px;
    
     width: 100vw;
     left: 0px;

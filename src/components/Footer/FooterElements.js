@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import {Link} from 'react-router-dom';
 import {Link as LinkS} from 'react-scroll';
 
+import {Link as LinkR} from 'react-router-dom';
 
 export const FooterContainer = styled.footer`
     width: 100%;
@@ -88,7 +89,7 @@ export const FooterIconWrap = styled.div`
     
 
 `
-export const FooterIcon = styled.div`
+export const FooterIcon = styled(LinkR)`
     position: absolute;
     height: 160px;
     width: 240px;
@@ -96,7 +97,7 @@ export const FooterIcon = styled.div`
     top: 41px;
     background-repeat: no-repeat;
     background-size: cover;
-
+    cursor: pointer;
     
 
 
@@ -111,7 +112,7 @@ export const FooterText = styled(LinkS)`
     letter-spacing: 0em;
     white-space: nowrap;
     text-align: left;
-
+    cursor: pointer;
 
 
 `

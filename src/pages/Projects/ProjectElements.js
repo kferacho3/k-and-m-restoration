@@ -199,14 +199,14 @@ export const PCollPICCont = styled.div`
 
 export const PCollLT = styled.p`
     position: absolute;
-    width: 200px;
+    width: 250px;
     height: 34px;
     left: 40px;
-    top: 425px;
+    top: 450px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 40px;
     line-height: 34px;
     /* identical to box height, or 85% */
     display: flex;
@@ -223,11 +223,11 @@ export const PCollRT = styled.p`
     position: absolute;
     width: 294px;
     height: 89px;
-    left: 450px;
+    left: 650px;
     top: 100px;
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 32px;
     line-height: 32px;
     /* or 100% */
@@ -238,14 +238,14 @@ export const PCollRT = styled.p`
 
 export const PCollLL = styled.div`
     position: absolute;
-    width: 165px;
+    width: 250px;
     height: 2px;
     left: 42px;
-    top: 520px;
+    top: 550px;
     background: #8B9F2C;
 `
 
-export const PButtonArea = styled.div`
+export const PButtonArea = styled(LinkR)`
     position: absolute;
     height: 614px;
     left: 0px;

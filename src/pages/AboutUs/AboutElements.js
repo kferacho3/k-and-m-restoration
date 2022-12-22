@@ -9,7 +9,7 @@ export const AboutContainer = styled.div`
 
  
 
-    height: 1200px;
+    height: 1300px;
     width: 100vw;
 
     position: relative;
@@ -77,7 +77,7 @@ export const AboutImgContainer = styled.div`
 
 `
 export const AboutImg = styled.div`
-   display: flex;
+    display: flex;
     position: absolute;
     flex-direction: column;
     align-items: center;
@@ -94,9 +94,10 @@ export const AboutImg = styled.div`
 
 
 export const AboutTextSection = styled.div`
-
+  left: 0px;
+    top: 0px;
     position: relative;
-    height: 888px;
+    height: 800px;
     width: 880px;
     
     background: #F5F5F5;
@@ -118,7 +119,7 @@ export const AboutTextSection = styled.div`
 `;
 export const AboutTextContainer = styled.div`
     position: absolute;
-    height: 488px;
+    height: 500px;
    
     left: 0%;
     right: 0.63%;
@@ -180,7 +181,7 @@ export const AboutRightBg = styled.div`
     position: absolute;
     left: 0%;
     right: 0%;
-    top: -1.21%;
+    top: 0%;
     bottom: -45.33%;
     background-repeat: no-repeat;
     background-size: cover;

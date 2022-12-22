@@ -86,7 +86,8 @@ function Projects({isOpen, toggle}) {
                 <PCollRT>CALL TODAY FOR A FREE QUOTE</PCollRT>
                 <PCollLL/>
             </PCollageSection>
-          <PButtonArea style={{ backgroundImage:`url(${button})`}}/>
+          <PButtonArea to ='/gallery' 
+                    onClick={toggle} style={{ backgroundImage:`url(${button})`}}/>
         </Col2>
       </ProjectsBg>
     </ProjectsContainer>

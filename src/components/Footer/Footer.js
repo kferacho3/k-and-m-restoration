@@ -44,7 +44,7 @@ const Footer = () => {
          <FooterG1  style={{ backgroundImage:`url(${g1})` }}/>
          
             <FooterG2  style={{ backgroundImage:`url(${g2})` }}/>
-            <FooterIcon style={{ backgroundImage:`url(${icon})` }}/>
+            <FooterIcon to='/' style={{ backgroundImage:`url(${icon})` }}/>
           
             <FooterLinksContainer>
             <FooterLinkTitle> Quick Links </FooterLinkTitle>

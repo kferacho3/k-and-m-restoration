@@ -28,7 +28,7 @@ const Home = () => {
           <>
           <motion.div initial='out' animate='in' exit='out' variants={animationTwo}>
          </motion.div>
-         <Message/>
+        
           <Sidebar isOpen={isOpen} toggle={toggle} />
           <Navbar toggle={toggle}/>
          <div className='over'>
@@ -41,6 +41,7 @@ const Home = () => {
           <Testimonials/>
           <Contact/>
           </div>
+          <Footer/>
         
          
          

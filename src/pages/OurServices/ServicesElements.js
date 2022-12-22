@@ -8,12 +8,13 @@ export const ServicesContainer = styled.div`
     justify-content: center;
     align-items: center;
   
-    height: 1200px;
+    height: 1300px;
     width: 100vw;
     border-radius: 0px;
     position: relative;
     left: 0px;
     right: 0px;
+    top: 100px;
     background: #fff;
 
     

@@ -30,7 +30,7 @@ export const animationOne = {
       x: 300,
       transition: {
         type: "spring",
-        bounce: 0.9,
+       
         duration: 0.8
       }
     }
@@ -48,7 +48,7 @@ export const animationOne = {
       x: -300,
       transition: {
         type: "spring",
-        bounce: 0.9,
+      
         duration: 0.8
       }
     }
@@ -67,7 +67,7 @@ export const animationOne = {
       y: 300,
       transition: {
         type: "spring",
-        bounce: 0.9,
+        
         duration: 0.8
       }
     }
@@ -86,7 +86,7 @@ export const animationOne = {
 
       transition: {
         type: "spring",
-        bounce: 0.9,
+       
         duration: 0.8
       }
     }
